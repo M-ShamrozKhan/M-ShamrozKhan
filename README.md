@@ -1,10 +1,9 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Muhammad Shamroz Khan
 =============================================================================================================================================
 
-Frontend Developer
+Software Engineer
 ------------------
 
-As a dedicated software engineering student at Usman Institute of Technology, I am deeply passionate about front-end development and have reached the VI semester of my graduation. My area of interest lies in Flutter. Additionally, I possess a basic command of Java and intermediate skills in Python. My unwavering commitment to creating captivating user experiences drives me to craft visually appealing and intuitive interfaces.
 
 * 🌍  I'm based in Karachi
 * ✉️  You can contact me at [shamrozkhan610@gmail.com](mailto:shamrozkhan610@gmail.com)
